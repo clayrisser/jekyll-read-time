@@ -2,6 +2,8 @@
 
 Jekyll liquid tag to indicating the read time of the content
 
+![](assets/jekyll-read-time.png)
+
 ## Usage
 
 Add the following to your `Gemfile`
